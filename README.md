@@ -10,51 +10,47 @@ This project is a dynamic and interactive Sales Dashboard developed using Power 
 
 🔍 Key Insights  
 
-🔝 Top 5 Selling Pizzas – Identify the most popular pizza types  
-💰 Total Revenue – Overall sales performance at a glance  
-⏰ Orders by Hour – Discover peak ordering hours  
-📆 Monthly Sales Trends – Evaluate sales performance month-over-month  
-🍕 Average Pizzas per Order – Understand customer ordering patterns  
-💳 Average Order Value – Measure the average transaction revenue  
+ 🔝 Top 5 Selling Pizzas – Identify the most popular pizza types  
+ 💰 Total Revenue – Overall sales performance at a glance  
+ ⏰ Orders by Hour – Discover peak ordering hours  
+ 📆 Monthly Sales Trends – Evaluate sales performance month-over-month  
+ 🍕 Average Pizzas per Order – Understand customer ordering patterns  
+ 💳 Average Order Value – Measure the average transaction revenue  
 
-📌 Recommendations
-📍 Highlight best-selling pizzas in marketing and promotions
+📌 Recommendations  
 
-📍 Introduce seasonal pizza variants to keep the menu fresh
+ - Highlight best-selling pizzas in marketing and promotions  
+ - Introduce seasonal pizza variants to keep the menu fresh  
+ - Run offers during low-revenue months to boost sales  
 
-📍 Run offers during low-revenue months to boost sales
+📂 Project Structure   
 
-📂 Project Structure
-makefile
-Copy
-Edit
-📁 Domino's Sales Dashboard
-│
-├── 📊 Dashboard.pbix           # Power BI dashboard file
-├── 📈 Sales_Data.csv           # Dataset used (if included)
-├── README.md                   # Project documentation (this file)
-└── 📸 Screenshots/             # Dashboard screenshots (optional)
+├── 📊 Dashboard.pbix           # Power BI dashboard file  
+├── 📈 Sales_Data.csv           # Dataset used (if included)  
+├── README.md                   # Project documentation (this file)  
+└── 📸 Screenshots/             # Dashboard screenshots (optional)  
+
 🛠️ Tools & Technologies
-Power BI
 
-Data Analysis & Visualization
+ - Power BI   
+ - Data Analysis & Visualization  
+ - DAX (Data Analysis Expressions)    
 
-DAX (Data Analysis Expressions)
+📷 Dashboard Preview  
 
-📷 Dashboard Preview
-You can add a screenshot or GIF of your dashboard here for better engagement.
+You can add a screenshot or GIF of your dashboard here for better engagement.  
 
-📥 How to Use
-Clone the repository.
+📥 How to Use  
 
-Open the .pbix file using Power BI Desktop.
+ 1. Clone the repository.  
+ 2. Open the .pbix file using Power BI Desktop.  
+ 3. Explore the visualizations or connect your own dataset.  
 
-Explore the visualizations or connect your own dataset.
+📌 Notes  
 
-📌 Notes
-Sample data is used for demonstration.
+ - Sample data is used for demonstration.  
+ - All visuals are customizable and dynamic based on filters.  
 
-All visuals are customizable and dynamic based on filters.
+🤝 Contact  
 
-🤝 Contact
-For questions or collaboration, feel free to connect via LinkedIn or email.
+For questions or collaboration, feel free to connect via LinkedIn or email.  
