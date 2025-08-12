@@ -38,7 +38,7 @@ This project is a dynamic and interactive Sales Dashboard developed using Power 
 
 📷 Dashboard Preview  
 
-    You can add a screenshot or GIF of your dashboard here for better engagement.  
+    https://1drv.ms/i/c/3d00aa50fbba3fef/ER9gbl46nXZHnHXcjRsXa30BGD1ulP48zhmTdvppTR_scQ?e=oSE4Zw  
 
 📥 How to Use  
 
